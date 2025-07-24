@@ -1,1 +1,0 @@
-# GizemGoksu-data_algorithm_course_projects
